@@ -11,3 +11,5 @@ Sample layout in desktop:
 ![image](https://user-images.githubusercontent.com/1588753/57669122-caa8f680-75d7-11e9-8e47-a634026bc51a.png)
 
 In mobile, every element can be stacked in top of each other like it currently is.
+
+The page currently looks like [this](https://github.com/code-corgi/10-holy-grail-design/settings).
